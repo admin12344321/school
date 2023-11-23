@@ -1,0 +1,5 @@
+touch a b  c
+date
+ls -ltr
+echo "alok kumar sahoo"
+mkdir alsa
